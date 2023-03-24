@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/tilting-card/static/css/main.0008f493.css",
+    "main.js": "/tilting-card/static/js/main.bac83b71.js",
+    "static/js/787.2a205edf.chunk.js": "/tilting-card/static/js/787.2a205edf.chunk.js",
+    "static/media/ZMBC10.jpg": "/tilting-card/static/media/ZMBC10.feb164ab3c6457177866.jpg",
+    "static/media/logo.svg": "/tilting-card/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/tilting-card/index.html",
+    "main.0008f493.css.map": "/tilting-card/static/css/main.0008f493.css.map",
+    "main.bac83b71.js.map": "/tilting-card/static/js/main.bac83b71.js.map",
+    "787.2a205edf.chunk.js.map": "/tilting-card/static/js/787.2a205edf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0008f493.css",
+    "static/js/main.bac83b71.js"
+  ]
+}
