@@ -30,7 +30,8 @@ function TiltCard() {
         <div className="relative m-auto z-10 w-52 h-52">
             <img src={photo} className="absolute 
                                         m-auto 
-                                        inset-0"/>
+                                        inset-0"
+                                        alt="img"/>
         </div> 
     </div>
   );
